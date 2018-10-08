@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/carousel-project/static/css/1.c8fa64cc.chunk.css"
   },
   {
-    "revision": "8ddaabbeaaec317e75a87be501fd97b6",
+    "revision": "181de16cedca7eae0eb87042a8fd7ca6",
     "url": "/carousel-project/index.html"
   }
 ];
