@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/carousel-project/static/js/runtime~main.40fc53c9.js"
   },
   {
-    "revision": "de2e65fa07ca8315b81f",
-    "url": "/carousel-project/static/js/main.de2e65fa.chunk.js"
+    "revision": "4f306c9d873b85009f03",
+    "url": "/carousel-project/static/js/main.4f306c9d.chunk.js"
   },
   {
     "revision": "753ac34512137c4c86bc",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/carousel-project/static/css/1.c8fa64cc.chunk.css"
   },
   {
-    "revision": "4520671967f7f77764a7f613694cca78",
+    "revision": "8ddaabbeaaec317e75a87be501fd97b6",
     "url": "/carousel-project/index.html"
   }
 ];

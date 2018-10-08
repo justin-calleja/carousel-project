@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/carousel-project/precache-manifest.fb1c2a0154f1a47eb9f76c784a5b33c5.js"
+  "/carousel-project/precache-manifest.1d44ba230482dfd9b2792451999639fe.js"
 );
 
 workbox.clientsClaim();
